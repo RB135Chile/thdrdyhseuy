@@ -1,0 +1,124 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/maqueta-television-retro-senal-pantalla_268834-886.jpg",PRUEBA
+cdn.apple.com/videos/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.13.cl/sites/default/files/13go/logo/FutGo-logo-ok-02c.svg",FUTGO
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://s.13.cl/sites/default/files/13go/logo/d13-invertido_0.svg",D13
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/13Festival_2025.svg/revision/latest/scale-to-width-down/250?cb=20250409014611",13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZB7myBvGpayCLqzGVO7SXlB2YnB8m8TZ_g&s",13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/13Cocina_2025.svg/revision/latest/scale-to-width-down/250?cb=20250409013946",13 Cocina
+https://origin.dpsgo.com/ssai/event/mpbTLkfAQqmjmo7xyhnFlg/master.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/13_Viajes.svg/revision/latest?cb=20250402160914",13 Viajes
+https://origin.dpsgo.com/ssai/event/3hCyW0rZSnawRZcTVlr_iw/master.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/13pop_2025.svg/revision/latest/scale-to-width-down/250?cb=20250409012514",13 Pop
+https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Ol9uqNLFr1M8nkkpOlnkQ7O9u0QwqHOPQw&s",13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNMUzVTCTw8V0R8tk_ue8p541VXLaMUOd0g&s",13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1641157666692055049/Bl57N4Fh_400x400.jpg",T13 EN VIVO
+https://jireh-4-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_2000.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cNHHC42SWIlnzlVkOGdx1leHRklGF0j-DhDAK87riotCLUTfxCO4dHtHu_k4ThVRfZ7-0b7d=s900-c-k-c0x00ffffff-no-rj",T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYNLXoo3kc5S-7kf6FhN9Z_DZjbpw7yGTKZA&s",Camara de diputados y diputadas
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logotipo_de_NTV.svg",NTV
+https://panel.miplay.cl:8082/ntv/index.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png",REC TV
+https://marine2.miplay.cl/rec/index.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg",TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg",TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1xwr635tllAO2LJtcwjrK2mypSaVHsskdQ&s",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg",TVN
+https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxfcnY-QbMoHWymot5tuLdhvAbKGkgAe-7IQ&s",Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/htkscWIOrPdUqfKOaPPjB4keqvFXhpF9-ETdbfGGdkEiQJZV_QGyVPQM9sLjMC8XW8dlNsoTPs0=s900-c-k-c0x00ffffff-no-rj",Meganoticias
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kEpXGzt3yiLRabrjqkppFTbdHiBGQo_3ljlB4HzNoaoRM=s900-c-k-c0x00ffffff-no-rj",CHV
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLSw3RFUtBfiPoOeUbsI8OzRu44yjcyTHxg&s",CHV Deportes
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/512px-TV%2B_%282018%29.png",TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b25bhDc/TV-MAS-2.png",TV+ 2
+https://panel.miplay.cl:8082/tvmas2/index.m3u8?CHILETV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J2G1WMs.png",Canal 9 BioBio TV
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Descarga3.jpg/revision/latest?cb=20190826001246&path-prefix=es",Canal 2 San Antonio SEÑAL DE AIRE
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Descarga3.jpg/revision/latest?cb=20190826001246&path-prefix=es",Canal 2 San Antonio SEÑAL YOUTUBE
+https://youtu.be/qtpf-ncBNbs
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rIsH1SBsSCCHnDK6_yhtjYFqEO_782thIGRo_RNi7D4de2Dbslk001rlMAbRWyeD5h14EkwIBg=s900-c-k-c0x00ffffff-no-rj",Uchile TV
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiv1bCmuXiuOLhEmXRg0kF8SiaJeANV3y0UqF88gGqbQ=s900-c-k-c0x00ffffff-no-rj",STGO TV
+https://stv4.janus.cl/playlist/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/500px-Logo_tvu.png",TVU (TELEVISION Concepción)
+https://unlimited2-cl-isp.dps.live/tvu/tvu.smil/tvu/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="",
+https://unlimited1-cl-isp.dps.live/uct/uct.smil/uct/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="",
+https://unlimited2-cl-isp.dps.live/ucentraltv/ucentraltv.smil/ucentraltv/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="",
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",
+https://unlimited3-cl.dps.live/cnnradio/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="",FM OKEY
+https://streaming.fmokey.cl:80/fmokey
+
+#EXTINF:-1 tvg-logo="",OKEY MUSIC
+https://streaming.fmokey.cl:80/okeymusic
+
+#EXTINF:-1 tvg-logo="",RADIO IMAGINA
+https://26563.live.streamtheworld.com/IMAGINA_SC
+
+#EXTINF:-1 tvg-logo="",RADIO BIO BIO OPC1
+https://redirector.dps.live/biobiosantiago/mp3/icecast.audio
+
+
+#EXTINF:-1 tvg-logo="",RADIO BIO BIO OPC2
+https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio
+
+#EXTINF:-1 tvg-logo="",RADIO CARNAVAL - VIÑA DEL MAR
+https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac
