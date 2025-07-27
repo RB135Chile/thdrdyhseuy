@@ -189,3 +189,36 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSjxe6qyBexyY04rUIQf5U47VoxLqH2kObA&s",RADIO PUDAHUEL
 https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
+
+#EXTINF:-1 tvg-logo="https://www.radiocontemporanea.cl/wp-content/uploads/2023/01/cropped-LOGO_CONTE.png",RADIO CONTEMPORANEA
+https://sonando-us.digitalproserver.com/contemporanea_aconcagua.aac
+
+#EXTINF:-1 tvg-logo="",RADIO OBSERVADOR (La Calera)
+https://archi-us.digitalproserver.com/la-calera.aac
+
+#EXTINF:-1 tvg-logo="",FM DOS
+https://24253.live.streamtheworld.com/FMDOS_SC
+
+#EXTINF:-1 tvg-logo="",RADIO FUTURO
+https://26643.live.streamtheworld.com/FUTURO_SC
+
+#EXTINF:-1 tvg-logo="",RADIO CONCIERTO
+https://27403.live.streamtheworld.com/CONCIERTO_SC
+
+#EXTINF:-1 tvg-logo="",RADIO ROCK & POP
+https://27693.live.streamtheworld.com/ROCK_AND_POP_SC
+
+#EXTINF:-1 tvg-logo="",RADIO UNIVERSO
+https://unlimited3-cl.dps.live/universo/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="",RADIO OASIS (13c RADIO) opc1
+https://mdstrm.com/audio/5c915497c6fd7c085b29169d/icecast.audio
+
+#EXTINF:-1 tvg-logo="",RADIO OASIS (13c RADIO) opc2
+https://mdstrm.com/audio/5c915497c6fd7c085b29169d/live.m3u8
+
+#EXTINF:-1 tvg-logo="",RADIO ROMANTICA opc1
+https://mdstrm.com/audio/639b78f7ff35df084fa7f964/icecast.audio
+
+#EXTINF:-1 tvg-logo="",RADIO ROMANTICA opc2
+https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
