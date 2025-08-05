@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/61/d7/61d7454a-58d1-450d-8068-e41f759fd82b.jpg",CNN RADIO
+https://unlimited3-cl.dps.live/cnnradio/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/FM_Okey_Logo.png",FM OKEY
+https://streaming.fmokey.cl:80/fmokey
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfqmz3z388SnWzGxGUuFaohYkGtg2esP85A&s",OKEY MUSIC
+https://streaming.fmokey.cl:80/okeymusic
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Radio_Imagina_2020.png",RADIO IMAGINA
+https://26563.live.streamtheworld.com/IMAGINA_SC
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/08/28/08286af1-8459-495c-9f2d-a159fcb54ae9.png",RADIO BIO BIO OPC1
+https://redirector.dps.live/biobiosantiago/mp3/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/08/28/08286af1-8459-495c-9f2d-a159fcb54ae9.png",RADIO BIO BIO OPC2
+https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/26hfjjqc2ulp.png",RADIO CARNAVAL - ANTOFAGASTA
+https://sonando-us.digitalproserver.com/carnaval_antofagasta.aac
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/840/radio-carnaval-calama.8c1c7eb0.jpg",RADIO CARNAVAL - CALAMA Y COPIAPO
+https://sonando-us.digitalproserver.com/carnaval_copiapo.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9b5b2ffbxu4m.png",RADIO CARNAVAL - OVALLE
+https://sonando-us.digitalproserver.com/carnaval_ovalle.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/l8dnb8epxsk9.png",RADIO CARNAVAL - SAN FELIPE Y LOS ANDES
+https://sonando-us.digitalproserver.com/carnaval_aconcagua.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/831/radio-carnaval-la-calera.c85c4cda.png",RADIO CARNAVAL - LA CALERA Y QUILLOTA
+https://sonando-us.digitalproserver.com/carnaval_quillota.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/26kvmf52pnt6.png",RADIO CARNAVAL - LA LIGUA Y PAPUDO
+https://sonando-us.digitalproserver.com/carnaval_rancagua.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/833/radio-carnaval-vina-del-mar.db8f87d5.jpg",RADIO CARNAVAL - VIÑA DEL MAR Y VALPARAISO
+https://sonando-us.digitalproserver.com/carnaval_vinadelmar.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radiocarnaval.cl/wp-content/uploads/2021/03/new-logo-2021.png",RADIO CARNAVAL - EL QUISCO
+https://tunein.digitalproserver.com/carnaval_sanantonio.aac
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vb4gswqlws28.png",RADIO CARNAVAL - SAN ANTONIO Y SANTO DOMINGO
+https://sonando-us.digitalproserver.com/carnaval_sanantonio.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dm77mzvl8ehk.png",RADIO CARNAVAL - PATAGONIA Y PUNTA ARENAS
+https://sonando-us.digitalproserver.com/carnaval_puntaarenas.mp3
+
+#EXTINF:-1 tvg-logo="https://myradioonline.cl/public/uploads/radio_img/radio-carolina/play_250_250.webp",RADIO CAROLINA
+https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAC2fJrUnjW8nfB1HDmKGYowpUxPEozthsQg&s",RADIO COOPERATIVA
+https://unlimited4-us.dps.live/cooperativafm/mp3/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.rudo.video/assets/adn/live/live_7e35e7a498cbae1023c0013f91bee8a41516899268.jpg",RADIO ADN
+https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC_SC
+
+#EXTINF:-1 tvg-logo="https://myradioonline.cl/public/uploads/radio_img/tele13-radio/play_250_250.webp",T13 RADIO
+https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/524/fm-de-los-recuerdos-chile.14c47230.png",FM DE LOS RECUERDOS
+https://sonando-us.digitalproserver.com/fmdelosrecuerdos.aac
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw74P98JaQKaqdLrP1BYHCVWDN7wV5Pf2uSg&s",RADIO CORAZON
+https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZONAAC_SC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Radio_Activa_2019.png",RADIO ACTIVA
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSjxe6qyBexyY04rUIQf5U47VoxLqH2kObA&s",RADIO PUDAHUEL
+https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
+
+#EXTINF:-1 tvg-logo="https://www.radiocontemporanea.cl/wp-content/uploads/2023/01/cropped-LOGO_CONTE.png",RADIO CONTEMPORANEA
+https://sonando-us.digitalproserver.com/contemporanea_aconcagua.aac
+
+#EXTINF:-1 tvg-logo="",RADIO OBSERVADOR (La Calera)
+https://archi-us.digitalproserver.com/la-calera.aac
+
+#EXTINF:-1 tvg-logo="",FM DOS
+https://24253.live.streamtheworld.com/FMDOS_SC
+
+#EXTINF:-1 tvg-logo="",RADIO FUTURO
+https://26643.live.streamtheworld.com/FUTURO_SC
+
+#EXTINF:-1 tvg-logo="",RADIO CONCIERTO
+https://27403.live.streamtheworld.com/CONCIERTO_SC
+
+#EXTINF:-1 tvg-logo="",RADIO ROCK & POP
+https://27693.live.streamtheworld.com/ROCK_AND_POP_SC
+
+#EXTINF:-1 tvg-logo="",RADIO UNIVERSO
+https://unlimited3-cl.dps.live/universo/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="",RADIO OASIS (13c RADIO)
+https://mdstrm.com/audio/5c915497c6fd7c085b29169d/icecast.audio
+
+#EXTINF:-1 tvg-logo="",RADIO ROMANTICA
+https://mdstrm.com/audio/639b78f7ff35df084fa7f964/icecast.audio
