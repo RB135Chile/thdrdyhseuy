@@ -97,3 +97,9 @@ https://mdstrm.com/audio/5c915497c6fd7c085b29169d/icecast.audio
 
 #EXTINF:-1 tvg-logo="",RADIO ROMANTICA
 https://mdstrm.com/audio/639b78f7ff35df084fa7f964/icecast.audio
+
+#EXTINF:-1 tvg-logo="",RADIO COSMOS OPC1
+https://broadcast.madero.cl:7410/stream.m3u
+
+#EXTINF:-1 tvg-logo="",RADIO COSMOS OPC2
+https://broadcast.madero.cl:7410/stream
