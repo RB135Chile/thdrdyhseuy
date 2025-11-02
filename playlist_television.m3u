@@ -134,5 +134,8 @@ https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtr7pfv7gcoCClxOvvLNi6Tz6z8znTCEeQIg&s",45 - Holvoet TV (Copiapo)
 https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png",46 - Tele Canal
+#EXTINF:-1 tvg-logo="",46 - Tele Canal
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",47 - TNT Sports Premium Chile FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=77&f=.ts
