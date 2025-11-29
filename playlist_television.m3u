@@ -137,6 +137,16 @@ https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="",46 - Tele Canal
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",47 - TNT Sports Premium Chile
+#EXTINF:-1 tvg-logo="",47 - Teleton en vivo
+https://tls-cl.cdnz.cl/teleton1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",48 - Digitón - Teleton
+https://sae11.playlist.ttvnw.net/v1/playlist/CrsGEjkNCkY8-Yv_bPOmb3QOlGWl2EHDhxbFOF0hzSm6_qXVO-L_h5ZMoGFTqZ48MM7iaVYb2PVdp-_Sc7J414YG69GiDwyK7eT78zXDzExiqOY5OtHL0BB0Zx3wjxyLhBk-NnhFlXIBLhSgvfZ3F7moauzgER62Rv04JxWKLUlPvAb2DXJiE-briskDgLdQTdPyqetiR9rIFWTBPUwilFg8jcxAPSuN12M34mnzup18iDxdqIgu5xppu2cPVkLptqRI9pk_QwO1cYMI8frIkm7FGfqOrwsZBJOriyzGcboZavmQySzmS7BVNfqrBvJHuz64kwMxm2hME4EEjxc_iH66Ts07kgREQpCXr4ADXbR1pxkXAaWvYo6h3NLkj4TNVRdaszcJCns4RKAzcQZK41_FilkODOZgwM0-hC9MtSGUKxSN1yMhEmTY9ZpCj6nRFSBczVUycS85-_UTvIjxM1M3e962g3MOy1lv5P1UylAHPdyC5YLpLy7udTxqg-J5Ug4PBFX1rB43_NOKdFHTCcphwdvHvl8uPFPdPAXbWkpe_uAD23tG1ttlRuOO2onEG1kW2ayuhQi1oEW5JjAtzZHiHRhncmerD9nQvAOHCS1iSst24WPTYXYOykytQQJY31VncF7uDT5ub1ejj3bM1iHZjqDA8Djju4zHbLmQjeuDCY_qr9ev0LSJdMKKbbtqK8ljXgLOeskjul9Im1U-mf3gZW779NlM7I5Q15cgiwFnAtJEbKkF0UBXx6H-Kd5d9w9a4lb28m1pVDgCjJXwwNJcWebtKQ6m4l0efeDEGjvddmbtZJMBNyqtdwasd2ljqHnHuDe0gZRGh6xa_R_TStdTTvbhGo-000eCodDBIDXPw4mj4ujF_23AN5MJaJoxgsC9E6qpk55NmemHZqWtyHA8c-DDHGHDDOIoWs9JuZ9skCSb1-i3L_dSKUDFDvVmwCt56VsIod5bHKbROpPbXA56gna0JvxJ4c-oVPZUbOMJEv4ptKit0vihRaJcBWrrYzjksFubNq86Q5g9PlghYu3tyQ_I7Kctz7EgEl9N6pxWjUCRs6Ta7tyj0KkSLaeVorrZm5xIITQJO2v6K3QaDI8va75HauyTY93bPiABKgl1cy1lYXN0LTIw6A0.m3u8
+
+#EXTINF:-1 tvg-logo="",49 - TNT Sports Premium Chile
 http://38.250.127.17:9800/play/a06g/index.m3u8
 
+# STREAMS DE PRUEBA
+
+#EXTINF:-1 tvg-logo="",50 - Prueba 1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
