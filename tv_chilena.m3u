@@ -1,0 +1,291 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TVN (OPC 1)", group-title="Nacional", TVN (OPC 1)
+http://38.224.231.176:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-name="TVN (OPC 2)", group-title="Nacional", TVN (OPC 2)
+https://iptv.bitred.cl/tvn/index.m3u8
+
+#EXTINF:-1 tvg-name="Mega", group-title="Nacional", Mega
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-name="CHV", group-title="Nacional", CHV
+http://38.224.231.176:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 13", group-title="Nacional", Canal 13
+https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV+", group-title="Nacional", TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?did=
+
+#EXTINF:-1 tvg-name="La Red", group-title="Nacional", La Red
+https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="24 Horas", group-title="Noticias", 24 Horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+
+#EXTINF:-1 tvg-name="CNN Chile", group-title="Noticias", CNN Chile
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="T13 En Vivo", group-title="Noticias", T13 En Vivo
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN en Espanol", group-title="Noticias", CNN en Espanol
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN International", group-title="Noticias", CNN International
+http://168.228.44.241:9997/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-name="DW Espanol", group-title="Noticias", DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-name="France 24", group-title="Noticias", France 24 ES
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="ESPN", group-title="Deportes",ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2", group-title="Deportes",ESPN 2
+http://38.252.215.33:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3", group-title="Deportes",ESPN 3
+http://38.252.215.33:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4", group-title="Deportes",ESPN 4
+http://181.78.197.59:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 5", group-title="Deportes",ESPN 5
+http://38.252.215.33:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 6", group-title="Deportes",ESPN 6
+http://181.78.197.59:8000/play/a08c/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 7", group-title="Deportes",ESPN 7
+http://181.78.197.59:8000/play/a06a/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Premium", group-title="Deportes",ESPN Premium
+http://181.78.197.59:8000/play/a09l/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports Basico", group-title="Deportes",TNT Sports Basico
+http://38.252.215.33:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports Premium [CL]", group-title="Deportes",TNT Sports Premium [CL]
+http://38.224.231.176:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-name="CDO", group-title="Deportes",CDO
+
+
+#EXTINF:-1 tvg-name="Teletrak", group-title="Deportes",Teletrak
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DSports", group-title="Deportes",DSports
+http://38.252.215.33:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-name="DSports 2", group-title="Deportes",DSports 2
+http://38.252.215.33:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-name="TyC Sports", group-title="Deportes",TyC Sports
+http://38.252.215.33:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-name="ECDF", group-title="Deportes",ECDF
+http://45.173.231.22:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-name="Claro Sports", group-title="Deportes",Claro Sports
+http://38.224.231.176:8000/play/a09h/index.m3u8
+
+#EXTINF:-1 tvg-name="Claro Sports 2", group-title="Deportes",Claro Sports 2
+http://38.224.231.176:8000/play/a09i/index.m3u8
+
+#EXTINF:-1 tvg-name="Golf Channel", group-title="Deportes",Golf Channel
+http://38.224.231.176:8000/play/a079/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="TNT", group-title="Entretenimiento",TNT
+http://181.78.197.59:8000/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-name="Space", group-title="Entretenimiento",Space
+http://181.78.197.59:8000/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-name="Cinecanal", group-title="Entretenimiento",Cinecanal
+http://181.78.197.59:8000/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-name="Universal TV", group-title="Entretenimiento",Universal TV
+http://38.252.215.33:8000/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-name="Warner Channel", group-title="Entretenimiento",Warner Channel
+http://181.78.197.59:8000/play/a07s/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Channel", group-title="Entretenimiento",Sony Channel
+http://181.78.197.59:8000/play/a07q/index.m3u8
+
+#EXTINF:-1 tvg-name="AXN", group-title="Entretenimiento",AXN
+http://38.252.215.33:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-name="FX", group-title="Entretenimiento",FX
+http://181.78.197.59:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-name="Studio Universal", group-title="Entretenimiento",Studio Universal
+http://181.78.197.59:8000/play/a06t/index.m3u8
+
+#EXTINF:-1 tvg-name="Cinemax", group-title="Entretenimiento",Cinemax
+http://181.78.197.59:8000/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO", group-title="Entretenimiento",HBO
+http://181.78.197.59:8000/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2", group-title="Entretenimiento",HBO 2
+http://181.78.197.59:8000/play/a07e/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus", group-title="Entretenimiento",HBO Plus
+http://181.78.197.59:8000/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Family", group-title="Entretenimiento",HBO Family
+http://181.78.197.59:8000/play/a07g/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Xtreme", group-title="Entretenimiento",HBO Xtreme
+http://181.78.197.59:8000/play/a07h/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Pop", group-title="Entretenimiento",HBO Pop
+http://45.173.231.22:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signature", group-title="Entretenimiento",HBO Signature
+http://38.224.231.176:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Mundi", group-title="Entretenimiento",HBO Mundi
+http://38.224.231.176:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-name="TCM", group-title="Entretenimiento",TCM
+http://38.224.231.176:8000/play/a07e/index.m3u8
+
+#EXTINF:-1 tvg-name="Golden", group-title="Entretenimiento",Golden
+http://38.224.231.176:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-name="A3S", group-title="Entretenimiento",A3S
+http://45.173.231.22:8000/play/a08c/index.m3u8
+
+#EXTINF:-1 tvg-name="Claro Cinema", group-title="Entretenimiento",Claro Cinema
+http://45.173.231.22:8000/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-name="RUMBA: El canal de la familia", group-title="Entretenimiento",RUMBA: El canal de la familia
+http://209.45.101.130:8040/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal Claro", group-title="Entretenimiento",Canal Claro
+http://45.173.231.22:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV", group-title="Entretenimiento",MTV
+http://45.173.231.22:8000/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-name="Vía X", group-title="Entretenimiento",Vía X
+http://38.224.231.176:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-name="REC TV", group-title="Entretenimiento",REC TV
+https://marine2.miplay.cl/rec/index.m3u8
+
+#EXTINF:-1 tvg-name="E!, group-title="Entretenimiento",E!
+http://45.173.231.22:8000/play/a08t/index.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim", group-title="Entretenimiento",Adult Swim
+http://45.173.231.22:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-name="El Chavo del 8 24/7", group-title="Entretenimiento",El Chavo del 8 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="El Chavo Animado 24/7", group-title="Infantil",El Chavo Animado 24/7
+https://hls.chiletvapp.com/elchavo/stream.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Kids", group-title="Infantil",Discovery Kids
+http://38.224.231.176:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network", group-title="Infantil",Cartoon Network
+http://168.228.44.241:9997/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel", group-title="Infantil",Disney Channel
+http://45.173.231.22:8000/play/a068/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Junior", group-title="Infantil",Disney Junior
+http://38.224.231.176:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon", group-title="Infantil",Nickelodeon
+http://209.45.101.130:8040/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick Jr.", group-title="Infantil",Nick Jr.
+http://45.173.231.22:8000/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-name="ETC", group-title="Infantil",ETC
+
+
+#EXTINF:-1 tvg-name="Tooncast", group-title="Infantil",Tooncast
+http://38.224.231.176:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-name="NTV", group-title="Infantil",NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+
+#EXTINF:-1 tvg-name="DreamWorks", group-title="Infantil",DreamWorks
+https://barinaslive1.boldmss.com/DREAMWORKS/DREAMWORKS.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Baby TV", group-title="Infantil",Baby TV
+http://38.224.231.176:8000/play/a08q/index.m3u8
+
+#EXTINF:-1 tvg-name="Plim Plim TV", group-title="Infantil",Plim Plim TV
+http://38.252.215.33:8000/play/a01z/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Discovery Channel", group-title="Cultura",Discovery Channel
+http://168.228.44.241:9997/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic", group-title="Cultura",National Geographic
+http://209.45.101.130:8040/play/a05q/index.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet", group-title="Cultura",Animal Planet
+http://209.45.101.130:8040/play/a05n/index.m3u8
+
+#EXTINF:-1 tvg-name="History Channel", group-title="Cultura",History Channel
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+
+#EXTINF:-1 tvg-name="H2", group-title="Cultura",H2
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+
+#EXTINF:-1 tvg-name="13C", group-title="Cultura",13C
+http://45.173.231.22:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-name="Mega 2", group-title="Cultura",Mega 2
+http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+
+#EXTINF:-1 tvg-name="UChile Tv", group-title="Cultura",UChile Tv
+https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="TVE Internacional", group-title="Internacionales",TVE Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Internacional", group-title="Internacionales",Telefe Internacional
+http://200.115.120.1:8000/play/ca016/index.m3u8
+
+#EXTINF:-1 tvg-name="RAI Italia", group-title="Internacionales",RAI Italia
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+
+#EXTINF:-1 tvg-name="NHK World-Japan", group-title="Internacionales",NHK World-Japan
+https://nhk.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews", group-title="Internacionales",Euronews
+https://iptv.bitred.cl/euronews/index.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo Internacional", group-title="Internacionales",Telemundo Internacional
+http://45.173.231.22:8000/play/a01h/index.m3u8
+
+#TV-CHILENA------M3U-HECHO-POR-RB135CHILE------LOS-STREAMS-SON-DE-TERCEROS-NO-DEL-CREADOR-DE-LA-PLAYLIST
