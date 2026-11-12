@@ -7,7 +7,7 @@ http://38.224.231.176:8000/play/a02r/index.m3u8
 https://iptv.bitred.cl/tvn/index.m3u8
 
 #EXTINF:-1 tvg-name="Mega", group-title="Nacional", Mega
-http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?CHILETV
 
 #EXTINF:-1 tvg-name="CHV", group-title="Nacional", CHV
 http://38.224.231.176:8000/play/a02s/index.m3u8
